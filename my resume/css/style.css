@@ -644,4 +644,15 @@ header .follow a:hover{
         padding-right: 0;
     }
 
+    
+
+
+}
+
+@media (max-width:400px){
+
+    .home .image img{
+        width:100%;
+        margin-bottom: 50px;
+   }
 }
